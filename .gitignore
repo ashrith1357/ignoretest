@@ -1,1 +1,25 @@
+# Terraform files
+
+.terraform
+terraform.tfstate
+terraform.tfvars
+*.tfstate*
 /*.tfvar
+*.backup
+./*.tfstate
+.terraform/
+*.log
+*.bak
+.*.swp
+.idea
+*.iml
+*.test
+*.iml
+*.dll
+*.exe
+.DS_Store
+
+# OS X files
+.history
+.DS_Store
+
